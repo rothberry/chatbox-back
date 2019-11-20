@@ -1,24 +1,9 @@
-# README
+# ChatBox
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Create an live chat app with a Rails Backend and React Frontend, while using WebSockets for live rendering.
 
-Things you may want to cover:
 
-* Ruby version
+### In Development
 
-* System dependencies
+---
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
